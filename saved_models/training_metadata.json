@@ -1,0 +1,43 @@
+{
+  "dataset": "NCEP_NCAR",
+  "grid_resolution_deg": 1.0,
+  "patch_size": 21,
+  "num_channels": 137,
+  "channel_order": "variable_major_then_pressure_level",
+  "pressure_variables": [
+    "ugrdprs",
+    "vgrdprs",
+    "vvelprs",
+    "tmpprs",
+    "rhprs",
+    "hgtprs",
+    "absvprs"
+  ],
+  "pressure_levels_hpa": [
+    1000,
+    975,
+    950,
+    925,
+    900,
+    850,
+    800,
+    750,
+    700,
+    650,
+    600,
+    550,
+    500,
+    450,
+    400,
+    350,
+    300,
+    250,
+    200
+  ],
+  "surface_variables": [
+    "pressfc",
+    "capesfc",
+    "tmpsfc",
+    "landmask"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "leadtime": 24,
+    "model_type": "vit_gru",
+    "test_roc_auc": 0.9701557093425606,
+    "test_pr_auc": 0.969891466266113,
+    "confusion_matrix": {
+        "TN": 134,
+        "FP": 2,
+        "FN": 19,
+        "TP": 117
+    },
+    "precision": 0.9831932690487961,
+    "recall": 0.8602941113213668,
+    "f1_score": 0.9176470552249135
+}

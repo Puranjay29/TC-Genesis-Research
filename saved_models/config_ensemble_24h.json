@@ -1,0 +1,9 @@
+{
+    "model_architecture": "Advanced_16Token_Gated_Ensemble",
+    "leadtime": 24,
+    "batch_size": 36,
+    "loss": "BinaryCrossentropy_LabelSmoothing_0.02",
+    "stage1_lr": 5e-05,
+    "stage2_lr": 1e-06,
+    "seed": 42
+}

@@ -1,0 +1,21 @@
+{
+    "model_architecture": "Dual_Axis_CNN_LSTM",
+    "leadtime": 24,
+    "batch_size": 36,
+    "epochs": 100,
+    "num_workers": 8,
+    "neg_to_pos_ratio": 3,
+    "patch_size": 21,
+    "loss": "BinaryFocalCrossentropy",
+    "gamma": 2.0,
+    "alpha": 0.25,
+    "seed": 42,
+    "optimizer": "Adam",
+    "learning_rate": 0.0001,
+    "clipnorm": 1.0,
+    "train_csv": "data/extracted_features_entire_world/tc_24h_train.csv",
+    "val_csv": "data/extracted_features_entire_world/tc_24h_val.csv",
+    "stats_dir": "saved_models",
+    "tensorflow_version": "2.16.1",
+    "timestamp": "2026-07-23 07:09:34"
+}

@@ -1,0 +1,11 @@
+.git
+__pycache__/
+results/
+data/
+*.nc
+*.npy
+*.png
+*.keras
+
+# Explicitly ensure requirements is NOT ignored
+!requirements.txt

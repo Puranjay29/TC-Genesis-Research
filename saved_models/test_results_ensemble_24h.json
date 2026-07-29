@@ -1,0 +1,15 @@
+{
+    "leadtime": 24,
+    "model_type": "ensemble",
+    "test_roc_auc": 0.9806985294117647,
+    "test_pr_auc": 0.9752090773227199,
+    "confusion_matrix": {
+        "TN": 132,
+        "FP": 4,
+        "FN": 15,
+        "TP": 121
+    },
+    "precision": 0.9679999922560001,
+    "recall": 0.8897058758109863,
+    "f1_score": 0.9272030615815975
+}

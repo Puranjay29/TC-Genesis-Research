@@ -1,0 +1,25 @@
+# Datasets transferred separately
+data/
+live_data/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Archives and Docker exports
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Temporary caches
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/

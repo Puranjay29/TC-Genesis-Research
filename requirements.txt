@@ -1,0 +1,13 @@
+tensorflow>=2.16.1
+tf_keras
+keras>=3.0.0
+numpy
+pandas
+xarray
+netCDF4
+scipy
+scikit-learn
+scikit-image
+matplotlib
+cartopy
+cfgrib==0.9.10.4

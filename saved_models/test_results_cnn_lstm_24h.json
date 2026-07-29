@@ -1,0 +1,15 @@
+{
+    "leadtime": 24,
+    "model_type": "cnn_lstm",
+    "test_roc_auc": 0.9818339100346021,
+    "test_pr_auc": 0.9828351967149376,
+    "confusion_matrix": {
+        "TN": 132,
+        "FP": 4,
+        "FN": 24,
+        "TP": 112
+    },
+    "precision": 0.965517233055886,
+    "recall": 0.8235294057093426,
+    "f1_score": 0.8888888853615521
+}

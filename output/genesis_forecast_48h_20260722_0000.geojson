@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.0,
+                    24.0
+                ]
+            },
+            "properties": {
+                "confidence": 0.25142957142421185,
+                "raw_confidence": 0.5266678333282471,
+                "confidence_std": 0.002381253985172615,
+                "lead_time_hrs": 48,
+                "top_driver": "tmpprs",
+                "ugrdprs": 0.01952294632792473,
+                "vgrdprs": 0.01894412934780121,
+                "vvelprs": 0.018811475485563278,
+                "tmpprs": 0.02031579799950123,
+                "rhprs": 0.01777668483555317,
+                "hgtprs": 0.01886449009180069,
+                "absvprs": 0.019013430923223495,
+                "pressfc": 0.0016238788375630975,
+                "capesfc": 0.0010099097853526473,
+                "tmpsfc": 0.0011118066031485796,
+                "landmask": 0.0012105494970455766
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -132.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "confidence": 0.19931624276297438,
+                "raw_confidence": 0.4658689498901367,
+                "confidence_std": 0.0003717356721641072,
+                "lead_time_hrs": 48,
+                "top_driver": "rhprs",
+                "ugrdprs": 0.04134944826364517,
+                "vgrdprs": 0.04045116901397705,
+                "vvelprs": 0.04130619764328003,
+                "tmpprs": 0.039046432822942734,
+                "rhprs": 0.04215759038925171,
+                "hgtprs": 0.041494280099868774,
+                "absvprs": 0.03760417923331261,
+                "pressfc": 0.0029284749180078506,
+                "capesfc": 0.0019726925529539585,
+                "tmpsfc": 0.001807409105822444,
+                "landmask": 0.0040739658288657665
+            }
+        }
+    ]
+}

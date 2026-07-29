@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0,
+                    35.0
+                ]
+            },
+            "properties": {
+                "confidence": 0.8066342592239379,
+                "raw_confidence": 0.928317129611969,
+                "confidence_std": 0.0019437229971057388,
+                "lead_time_hrs": 72,
+                "top_driver": "vgrdprs",
+                "ugrdprs": 0.004985381383448839,
+                "vgrdprs": 0.0052606575191020966,
+                "vvelprs": 0.005258411169052124,
+                "tmpprs": 0.005055996589362621,
+                "rhprs": 0.0049883355386555195,
+                "hgtprs": 0.004777688533067703,
+                "absvprs": 0.005001422017812729,
+                "pressfc": 0.00031036598375067115,
+                "capesfc": 0.0003275953931733966,
+                "tmpsfc": 0.0002660660829860717,
+                "landmask": 0.0002517765387892723
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.0,
+                    21.0
+                ]
+            },
+            "properties": {
+                "confidence": 0.48824945390224467,
+                "raw_confidence": 0.7504282593727112,
+                "confidence_std": 0.0011896927845126235,
+                "lead_time_hrs": 72,
+                "top_driver": "vgrdprs",
+                "ugrdprs": 0.018724100664258003,
+                "vgrdprs": 0.019066285341978073,
+                "vvelprs": 0.01821899600327015,
+                "tmpprs": 0.017423097044229507,
+                "rhprs": 0.017477015033364296,
+                "hgtprs": 0.017607374116778374,
+                "absvprs": 0.016618305817246437,
+                "pressfc": 0.0012675580801442266,
+                "capesfc": 0.0008694708230905235,
+                "tmpsfc": 0.000868649163749069,
+                "landmask": 0.0009401989518664777
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "confidence": 0.41396975815296183,
+                "raw_confidence": 0.7079827189445496,
+                "confidence_std": 0.002992750589765312,
+                "lead_time_hrs": 72,
+                "top_driver": "ugrdprs",
+                "ugrdprs": 0.019279010593891144,
+                "vgrdprs": 0.01817791908979416,
+                "vvelprs": 0.018174218013882637,
+                "tmpprs": 0.018571868538856506,
+                "rhprs": 0.01715506799519062,
+                "hgtprs": 0.018244437873363495,
+                "absvprs": 0.017555084079504013,
+                "pressfc": 0.0011817185441032052,
+                "capesfc": 0.0008025628048926592,
+                "tmpsfc": 0.001134407240897417,
+                "landmask": 0.0008339434280060232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0,
+                    35.0
+                ]
+            },
+            "properties": {
+                "confidence": 0.29679022175925124,
+                "raw_confidence": 0.5795885920524597,
+                "confidence_std": 0.0006819528141834139,
+                "lead_time_hrs": 72,
+                "top_driver": "vvelprs",
+                "ugrdprs": 0.02867218479514122,
+                "vgrdprs": 0.029523838311433792,
+                "vvelprs": 0.030300751328468323,
+                "tmpprs": 0.02818659134209156,
+                "rhprs": 0.02687157317996025,
+                "hgtprs": 0.026121018454432487,
+                "absvprs": 0.02755609340965748,
+                "pressfc": 0.0014512616908177733,
+                "capesfc": 0.0017012637108564377,
+                "tmpsfc": 0.0011573953088372946,
+                "landmask": 0.0015040644211694598
+            }
+        }
+    ]
+}
