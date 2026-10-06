@@ -2,8 +2,6 @@
 FROM nvidia/cuda:12.2.2-runtime-ubuntu22.04
 
 # Setup NRSC Network Proxy Arguments
-ENV http_proxy=http://rrscnorth:NRSC%40User@192.168.0.9:8080
-ENV https_proxy=http://rrscnorth:NRSC%40User@192.168.0.9:8080
 ENV DEBIAN_FRONTEND=noninteractive
 
 # Install Python and the core binary dependencies for cfgrib/eccodes
