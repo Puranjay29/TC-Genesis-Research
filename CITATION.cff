@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite the exact version of TC-Genesis-Research that you used."
+title: "TC-Genesis-Research"
+version: "1.0.0"
+authors:
+  - given-names: "Puranjay"
+repository-code: "https://github.com/Puranjay29/TC-Genesis-Research"
+url: "https://github.com/Puranjay29/TC-Genesis-Research"
+abstract: "Research software for global 24-hour tropical cyclogenesis screening using complementary deep-learning experts, learned ensemble fusion, Explainable AI, historical verification, candidate post-classification, and operational GeoJSON generation."
+keywords:
+  - tropical cyclogenesis
+  - tropical cyclones
+  - deep learning
+  - CNN-LSTM
+  - Vision Transformer
+  - BiGRU
+  - ensemble learning
+  - explainable artificial intelligence
+  - XAI
+  - atmospheric science
+  - geoscience machine learning
