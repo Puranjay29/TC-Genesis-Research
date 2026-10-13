@@ -592,14 +592,6 @@ The active `scripts/` layout is retained because `main.py` imports model builder
 
 ---
 
-## 20. License
-
-A project-level open-source license has **not** been declared at this stage. This is intentional until applicable institutional/internship permissions for releasing the research software are confirmed.
-
-Do not assume MIT, Apache-2.0, or another open-source license without that authorization.
-
----
-
 ## 21. Contact
 
 **Puranjay**  
