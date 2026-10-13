@@ -630,9 +630,7 @@ Example GeoJSON
 Dataset access/download manifest
 ```
 
-Large source datasets should normally remain with their authoritative
-data repositories and be referenced by version/DOI rather than copied
-into GitHub.
+
 
 ## 26. Provenance record
 
@@ -680,9 +678,7 @@ while the current manuscript/project result description uses
 This must be checked against the actual final split CSVs before
 publication/archive.
 
-The release should contain exactly one verified split definition. Do not
-regenerate the paper's result merely to resolve a documentation
-inconsistency.
+
 
 ## 28. Reproduction levels
 
